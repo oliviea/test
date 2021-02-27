@@ -1,17 +1,27 @@
-{
-  "Author": "LeonBlade",
-  "Name": "Burning Down the House",
-  "Description": "Move around housing items with coordinates and allows you to place anywhere.",
-  "InternalName": "BDTHPlugin",
-  "AssemblyVersion": "1.2.2",
-  "RepoUrl": "https://github.com/oliviea/test",
-  "ApplicableVersion": "any",
-  "Tags": [
-	"bdth",
-	"housing",
-	"float",
-	"place",
-	"glitch"
-  ],
-  "DalamudApiLevel": 2
-}
+[
+	{
+		"Author": "LeonBlade",
+		"Name": "Burning Down the House",
+		"InternalName": "BDTHPlugin",
+		"Description": "Move around housing items with coordinates and allows you to place anywhere.",
+		"Tags": [
+			"bdth",
+			"housing",
+			"float",
+			"place",
+			"glitch",
+			"leonblade"
+		],
+		"RepoUrl": "https://github.com/oliviea/test",
+		"AssemblyVersion": "1.2.5",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 2,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 1613575894,
+		"DownloadLinkInstall": "https://github.com/oliviea/test/releases/download/1.2.2/BDTHPlugin.rar",
+		"DownloadLinkTesting": "https://github.com/oliviea/test/releases/download/1.2.2/BDTHPlugin.rar",
+		"DownloadLinkUpdate": "https://github.com/oliviea/test/releases/download/1.2.2/BDTHPlugin.rar"
+	}
+]
